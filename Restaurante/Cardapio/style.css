@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2vh;
+    width: 100%;
+    height: auto;
+    overflow-x: hidden;
+    padding-top: 4vh;
+    padding-bottom:4vh;
+    background-image: url(../assets/background-mobile.avif);
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    background-size: cover;
+}
+
+.wrap-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4vh;
+}
+
+h1,h2{
+    color: #ffffff;
+    font-size: 2.8rem !important;
+    text-shadow: 2px 2px #090909;
+    font-weight: 900 !important;
+    margin-top: 4vh !important;
+    letter-spacing: 6px;
+    padding: 10px;
+}
+
+h1{
+    text-transform: uppercase;
+    background-color: #090909e5;
+    border-radius: 20px;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 4.2rem !important;
+}
+
+.card{
+    border: 8px solid #ffffff !important;
+    border-radius: 20px !important;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.card .card-img-top{
+    border-top-left-radius: 20px ;
+    border-top-right-radius: 20px ;
+}
+
+@media (width >= 1024px){
+    body{
+        background-image: url(../assets/fundo-browser.jpg);
+    }
+    .wrap-card{
+        width: 100vw;
+        flex-direction: row;
+        gap: 2vw;
+    }
+  
+  }

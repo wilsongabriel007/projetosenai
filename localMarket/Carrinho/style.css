@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: #ffff;
+    background-color: #090909e3;
+    padding: 2rem;
+}
+
+#pedido{
+    display: none;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    background-color: rgba(16, 63, 25, 0.945);
+    color: #ffff;
+    font-size: 1.2rem;
+}
