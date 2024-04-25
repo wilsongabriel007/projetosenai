@@ -11,7 +11,7 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-color: rgba(18, 29, 49, 0.9);
+    background-color: rgba(43, 41, 41, 0.9);
 }
 
 main{
@@ -24,7 +24,7 @@ main{
 .wrap-img{
     border-radius: 100% 0 0 100% ;
     overflow: hidden;
-    box-shadow: rgba(235, 41, 206, 0.781) 0px 5px 525px;
+    box-shadow: rgba(213, 211, 212, 0.781) 0px 5px 525px;
 
 }
 
@@ -38,21 +38,21 @@ main{
     border-radius: 0 10px 10px 0;
     background-color: rgba(18, 27, 43, 0.84);
     color: #ffff;
-    border: 4px double rgba(235, 41, 206, 0.781);
-    box-shadow: rgba(235, 41, 206, 0.781) 0px 5px 525px;
+    border: 4px double rgba(0, 0, 0, 0.781);
+    box-shadow: rgba(198, 196, 196, 0.781) 0px 5px 525px;
 }
 
 input{
     padding: 5px;
-    border: 2px solid rgba(235, 41, 206, 0.781);
+    border: 2px solid rgba(27, 26, 26, 0.781);
     border-radius: 10px;
-    background-color: rgba(18, 29, 49, 0.9);
-    color: #ffff;
+    background-color: rgba(252, 252, 252, 0.9);
+    color: #000000;
     
 }
 
 input:focus {
-    box-shadow: rgba(235, 41, 206, 0.781) 0px 5px 15px;
+    box-shadow: rgba(234, 229, 232, 0.781) 0px 5px 15px;
   }
 
 .key{
@@ -72,7 +72,7 @@ input:focus {
     bottom: 10px;
     width: auto;
     padding: 10px;
-    background-color: lightpink;
+    background-color: rgb(181, 181, 181);
     border-radius: 10px;
     flex-direction: column;
     gap: 1vh;
@@ -91,8 +91,8 @@ button{
 
 button:hover{
     opacity: 1;
-    border: 4px double rgba(235, 41, 206, 0.781);
-    box-shadow: rgba(235, 41, 206, 0.781) 0px 5px 25px;
+    border: 4px double rgba(0, 0, 0, 0.781);
+    box-shadow: rgba(228, 224, 228, 0.781) 0px 5px 25px;
     color: #ffff;
     cursor: pointer;
 }

@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
             const btnAdicionarAoCarrinho = document.createElement("a");
             btnAdicionarAoCarrinho.href = "#"
             btnAdicionarAoCarrinho.className = "btn btn-primary btn-adicionar-ao-carrinho";
-            btnAdicionarAoCarrinho.textContent = "Adicionar ao carrinho";
+            btnAdicionarAoCarrinho.textContent = "Descrição";
             btnAdicionarAoCarrinho.setAttribute("data-indice", index);
 
             cardBody.appendChild(cardTitle);
