@@ -1,20 +1,34 @@
 [
     {
         "id": 1,
-        "descricao": "Produto 1",
-        "imagem": "../Images/image01.avif",
-        "preco": 100.0
+        "descricao": "PORSCHE 911 992 3.0 24V H6 CARRERA PDK 2021 LAVA ORANGE",
+        "imagem": "../Images/porsche911.jpg",
+        "preco": 959.900
+        
     },
+    
     {
         "id": 2,
-        "descricao": "Produto 2",
-        "imagem": "../Images/image02.avif",
-        "preco": 200.0
+        "descricao": "PORSCHE CAYENNE 3.0 HÍBRIDO  2017 AZUL 80.000KM.",
+        "imagem": "../Images/porschecay.jpeg",
+        "preco": 329.900
     },
     {
         "id": 3,
-        "descricao": "Produto 3",
-        "imagem": "../Images/image03.avif",
-        "preco": 300.0
+        "descricao": "AUDI R8 5.2 V10 FSI  COUPÉ QUATTRO S TRONIC AZUL 2021",
+        "imagem": "../Images/audir8.jpeg",
+        "preco": 300.000
+    },
+    {
+        "id": 4,
+        "descricao": "BMW X6 3.0 TWINPOWER BLACK AUTOMÁTICO 2022",
+        "imagem": "../Images/bmwx6.jpg",
+        "preco": 959.900
+    },
+    {
+        "id": 5,
+        "descricao": "MERCEDES-BENZ CLA 45 AMG 2.0 AUTOMÁTICO 2015",
+        "imagem": "../Images/mercedescla.jpg",
+        "preco": 209.900
     }
 ]
