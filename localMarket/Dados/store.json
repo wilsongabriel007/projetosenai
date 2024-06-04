@@ -3,7 +3,8 @@
         "id": 1,
         "descricao": "PORSCHE 911 992 3.0 24V H6 CARRERA PDK 2021 LAVA ORANGE",
         "imagem": "../Images/porsche911.jpg",
-        "preco": 959.900
+        "preco": 959500.00
+        
         
     },
     
@@ -27,6 +28,49 @@
     },
     {
         "id": 5,
+        "descricao": "MERCEDES-BENZ CLA 45 AMG 2.0 AUTOMÁTICO 2015",
+        "imagem": "../Images/mercedescla.jpg",
+        "preco": 209.900
+    },
+    {
+        "id": 6,
+        "descricao": "MERCEDES-BENZ CLA 45 AMG 2.0 AUTOMÁTICO 2015",
+        "imagem": "../Images/mercedescla.jpg",
+        "preco": 209.900
+    },
+    {
+        "id": 7,
+        "descricao": "JEEP COMPASS S 4XE HIBRIDO",
+        "imagem": "../Images/compass.jpeg",
+        "preco": 219.900
+    },
+    
+    {
+        "id": 8,
+        "descricao": "VOLVO C40 P8 RECHARGE",
+        "imagem": "../Images/volvo.jpeg",
+        "preco": 329.900
+    },
+    {
+        "id": 9,
+        "descricao": "Toyota Hilux",
+        "imagem": "../Images/toyota.jpeg",
+        "preco": 300.000
+    },
+    {
+        "id": 10,
+        "descricao": "BMW X6 3.0 TWINPOWER BLACK AUTOMÁTICO 2022",
+        "imagem": "../Images/bmwx6.jpg",
+        "preco": 959.900
+    },
+    {
+        "id":11,
+        "descricao": "MERCEDES-BENZ CLA 45 AMG 2.0 AUTOMÁTICO 2015",
+        "imagem": "../Images/mercedescla.jpg",
+        "preco": 209.900
+    },
+    {
+        "id": 12,
         "descricao": "MERCEDES-BENZ CLA 45 AMG 2.0 AUTOMÁTICO 2015",
         "imagem": "../Images/mercedescla.jpg",
         "preco": 209.900

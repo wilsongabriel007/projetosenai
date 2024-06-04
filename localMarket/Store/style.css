@@ -19,6 +19,12 @@ body {
     color: #000000; /* Cor padrão do texto */
 }
 
+.carro-border {
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;}
+
 /* Estilos para a barra de navegação */
 .Nav {
     background-color: #ffffff;
@@ -59,6 +65,7 @@ a:hover {
     color: #000000; /* Cor do texto dentro da classe .idPerfil */
 }
 
+
 .title {
     color: #000000; /* Cor do título */
     text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.937);
@@ -79,7 +86,14 @@ a:hover {
     align-items: center;
     justify-content: center;
     gap: 4vh;
+    border: 2px solid red; /* Substitua "red" pela cor desejada */
+    border-radius: 5px; /* Opcional: para adicionar cantos arredondados */
+
+    border: 8px solid #ffffff !important;
+    border-radius: 20px !important;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
+
 
 #user {
     color: rgba(255, 0, 0, 0.911);
@@ -102,4 +116,10 @@ a:hover {
 h2 {
     text-shadow: 1px 1px 2px rgba(9, 9, 9, 0.937);
     color: #000000; /* Cor do texto dos títulos */
+}
+#id1 {
+   
+        border: 2px solid red; /* Substitua "red" pela cor desejada */
+        border-radius: 5px; /* Opcional: para adicionar cantos arredondados */
+    
 }
